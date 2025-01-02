@@ -1,0 +1,17 @@
+h2{
+    color: hsl(360, 70%, 60%);
+}
+
+p{
+    background: hsl(480, 50%, 50%);
+}
+
+
+h3{
+    color: hsla(360, 80%, 50%, 0.5);
+}
+
+.p2{
+    background: hsla(480, 60%, 30%, 0.3);
+}
+
